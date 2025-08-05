@@ -132,9 +132,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://vsharan07.github.io/vsharan.github.io/"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/@vedantsharan6994"
