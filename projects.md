@@ -6,10 +6,9 @@ permalink: /projects/
 
 ### Crossfire
 In January 2025 the team at Miami Community News noticed the work we were doing reviving the Debate team at our school and invited some of us on the board on their show. Impressed with our performance, they offered us the wonderful opportunity of hosting a show focusing on the youth in the community.
-
+{% include video id="nbMmrTzF_5M" provider="youtube" %}
 I named the show Crossfire, after the segment of a Debate round where opponents ask questions to each other in an almost conversational manner. On the show, we interview young people doing unique things in the community, debate important issues for the youth of Miami, and more. A playlist of the episodes I have been in are 
   <a href="https://www.youtube.com/playlist?list=PLkhfS7-K2EcgSmPiqtIz96NoXRauTsr0p&" target="_blank" rel="noopener">linked</a>.
-{% include video id="nbMmrTzF_5M" provider="youtube" %}
 
 ### QGIS
 I have been a fan of geography since elementary school. Last year, I wanted to create something for it to really dive deeper in one of my favorite interests. As a result, in my spare time I have worked with QGIS mapping software to model geographic topics I find interesting. Linked are some posts of my GIS work on Reddit.
