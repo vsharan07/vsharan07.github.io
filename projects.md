@@ -18,13 +18,22 @@ https://www.youtube.com/playlist?list=PLkhfS7-K2EcgSmPiqtIz96NoXRauTsr0p&
 
 ### QGIS
 I have been a fan of geography since elementary school. Last year, I wanted to create something for it to really dive deeper in one of my favorite interests. As a result, in my spare time I have worked with QGIS mapping software to model geographic topics I find interesting. Linked are some posts of my GIS work on Reddit.
+<p>
+  Bus heat Map
+  <a href="https://www.reddit.com/r/Maps/comments/1dv7kku/the_best_and_worst_american_city_bus_networks/" target="_blank" rel="noopener">link</a>.
+</p>
+<p>
+  skyscrapers
+  <a href="https://www.reddit.com/r/Maps/comments/1e5bv56/us_cities_by_skyscraper_densities_check_comment/" target="_blank" rel="noopener">link</a>.
+</p>
+<p>
+  parks in cities
+  <a href="https://www.reddit.com/r/Maps/comments/1drwdod/comparing_the_top_500_usa_city_limits_to_parks/" target="_blank" rel="noopener">link</a>.
+</p>
 <figure>
   <img src="github.com/vsharan07/assets/assets/Screenshot 2025-08-05 at 2.13.31 AM.png" alt="bus map">
   <figcaption>bus map</figcaption>
 </figure>
-https://www.reddit.com/r/Maps/comments/1dv7kku/the_best_and_worst_american_city_bus_networks/
-https://www.reddit.com/r/Maps/comments/1e5bv56/us_cities_by_skyscraper_densities_check_comment/
-https://www.reddit.com/r/Maps/comments/1drwdod/comparing_the_top_500_usa_city_limits_to_parks/
 
 ### SIP
 To expand my robotics skills and learn about machine learning, I participated in a project last year in the Science Internship Program at UCSC. This project applied machine learning to visual servoing of a robotic arm. I learned kinematic techniques, control theory, and SIMULINK modeling and assisted the Hybrid Systems Lab at UCSC by designing the inverse kinematics system and setting up a robotic arm. A demo is linked below.
