@@ -4,4 +4,4 @@ title: "About Me"
 permalink: /about/
 ---
 
-High School student interested in engineering, Debate, geography, and more.
+Hi! I'm Vedant Sharan, A Senior at Miami Palmetto Senior High School in Pinecrest Florida. I used to live in South Dakota and the Bay Area. Academically, I am interested in robotics, debate, geography, and more. I also love to hike and play video games with my friends.
