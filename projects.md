@@ -5,8 +5,8 @@ permalink: /projects/
 ---
 
 ### Crossfire
-In January 2025 the team at Miami Community News noticed the work we were doing reviving the Debate team at our school and invited some of us on the board on their show. Impressed with our performance, they offered us the wonderful opportunity of hosting a show focusing on the youth in the community. I named the show Crossfire, after the segment of a Debate round where opponents ask questions to each other in an almost conversational manner. On the show, we interview young people doing unique things in the community, debate important issues for the youth of Miami, and more. A playlist of the episodes I have been in are linked below.
-  <a href="https://www.youtube.com/playlist?list=PLkhfS7-K2EcgSmPiqtIz96NoXRauTsr0p&" target="_blank" rel="noopener">link</a>.
+In January 2025 the team at Miami Community News noticed the work we were doing reviving the Debate team at our school and invited some of us on the board on their show. Impressed with our performance, they offered us the wonderful opportunity of hosting a show focusing on the youth in the community. I named the show Crossfire, after the segment of a Debate round where opponents ask questions to each other in an almost conversational manner. On the show, we interview young people doing unique things in the community, debate important issues for the youth of Miami, and more. A playlist of the episodes I have been in are 
+  <a href="https://www.youtube.com/playlist?list=PLkhfS7-K2EcgSmPiqtIz96NoXRauTsr0p&" target="_blank" rel="noopener">linked</a>.
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
     src="https://www.youtube.com/watch?v=nbMmrTzF_5M&ab_channel=CommunityNewspapers"
@@ -31,24 +31,17 @@ I have been a fan of geography since elementary school. Last year, I wanted to c
   <a href="https://www.reddit.com/r/Maps/comments/1drwdod/comparing_the_top_500_usa_city_limits_to_parks/" target="_blank" rel="noopener">link</a>.
 </p>
 <figure>
-  <img src="assets/Screenshot 2025-08-05 at 2.13.31 AM.png" alt="Heatmap of New York City plotting bus stops">
+  <img src="https://vsharan07.github.io/assets/Screenshot%202025-08-05%20at%202.13.31%20AM.png" alt="Heatmap of New York City plotting bus stops">
   <figcaption>Heatmap of New York City plotting bus stops</figcaption>
 </figure>
 
 ### SIP
 To expand my robotics skills and learn about machine learning, I participated in a project last year in the Science Internship Program at UCSC. This project applied machine learning to visual servoing of a robotic arm. I learned kinematic techniques, control theory, and SIMULINK modeling and assisted the Hybrid Systems Lab at UCSC by designing the inverse kinematics system and setting up a robotic arm. A demo is linked below.
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe
-    src="https://youtu.be/dTGZi6jqOfQ"
-    style="position: absolute; top:0; left:0; width:100%; height:100%;"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
+{% include video id="dTGZi6jqOfQ" provider="youtube" %}
 
 ### AGU BrightSTaRs
 Through the Stanford Design Your Energy Lifestyle Program, I wrote an abstract for the AGU BrightSTaRs conference. My topic was Investigating Spatial Relationships Between Electrical Power Plants Emissions, County-Level Air Pollution, and Demographics in the United States. A QGIS map of my data is pictured below. 
 <figure>
-  <img src="assets/Screenshot 2025-08-05 at 2.12.45 AM.png" alt="Map plotting Power plant locations and air quality">
+  <img src="https://vsharan07.github.io/assets/Screenshot%202025-08-05%20at%202.12.45%20AM.png" alt="Map plotting Power plant locations and air quality">
   <figcaption>Map plotting Power plant locations and air quality</figcaption>
 </figure>
