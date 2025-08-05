@@ -22,7 +22,7 @@ Through the Stanford Design Your Energy Lifestyle Program (<a href="https://s3l.
 </figure>
 
 ### SIP
-To expand my robotics skills and learn about machine learning, I participated in a project last year in the Science Internship Program at UCSC. This project applied machine learning to visual servoing of a robotic arm. I learned kinematic techniques, control theory, and SIMULINK modeling and assisted the Hybrid Systems Lab at UCSC by designing the inverse kinematics system and setting up a robotic arm. A demo is linked below.
+To expand my robotics skills and learn about machine learning, I participated in a project last year in the Science Internship Program at UC Santa Cruz. This project applied machine learning to visual servoing of a robotic arm. I learned kinematic techniques, control theory, and SIMULINK modeling and assisted the Hybrid Systems Lab at UCSC by designing the inverse kinematics system and setting up a robotic arm. A demo is linked below.
 {% include video id="dTGZi6jqOfQ" provider="youtube" %}
 
 ### QGIS

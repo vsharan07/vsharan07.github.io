@@ -128,7 +128,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/vedant_sharan/"
-
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/vedant-sharan-a965a92b5/"
 # Site Footer
 footer:
   links:
@@ -141,6 +143,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/vedant_sharan/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/vedant-sharan-a965a92b5/"
   since: "2013"
 
 
