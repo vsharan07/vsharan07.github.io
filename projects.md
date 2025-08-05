@@ -33,7 +33,7 @@ I have been a fan of geography since elementary school. Last year, I wanted to c
 To expand my robotics skills and learn about machine learning, I participated in a project last year in the Science Internship Program at UCSC. This project applied machine learning to visual servoing of a robotic arm. I learned kinematic techniques, control theory, and SIMULINK modeling and assisted the Hybrid Systems Lab at UCSC by designing the inverse kinematics system and setting up a robotic arm. A demo is linked below.
 {% include video id="dTGZi6jqOfQ" provider="youtube" %}
 
-### AGU BrightSTaRs
+### Stanford DYEL: AGU BrightSTaRs Abstract
 Through the Stanford Design Your Energy Lifestyle Program, I wrote an abstract for the AGU BrightSTaRs conference. My topic was Investigating Spatial Relationships Between Electrical Power Plants Emissions, County-Level Air Pollution, and Demographics in the United States. A QGIS map of my data is pictured below. 
 <figure>
   <img src="https://vsharan07.github.io/assets/Screenshot%202025-08-05%20at%202.12.45%20AM.png" alt="Map plotting Power plant locations and air quality">
