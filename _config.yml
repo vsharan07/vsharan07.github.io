@@ -113,15 +113,12 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Vedant Sharan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Landing Page"
+  avatar           : https://vsharan07.github.io/assets/pictureofme.jpg
   bio              : "High Schooler interested in engineering, debate, geography, and more."
   location         : "Miami, FL"
   email            : "vedantsharan07@gmail.com"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://vsharan07.github.io/vsharan.github.io/"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/@vedantsharan6994"

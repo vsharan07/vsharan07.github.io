@@ -39,3 +39,7 @@ Through the Stanford Design Your Energy Lifestyle Program, I wrote an abstract f
   <img src="https://vsharan07.github.io/assets/Screenshot%202025-08-05%20at%202.12.45%20AM.png" alt="Map plotting Power plant locations and air quality">
   <figcaption>Map plotting Power plant locations and air quality</figcaption>
 </figure>
+
+### Beaver Works Summer Institute
+This summer I got the opportunity to join the Beaver Works Summer Institute in the Unmanned Aerial Systems - Synthetic Aperture Radar course. It was a great experience and I learned a lot. Linked is some footage of our work.
+{% include video id="N_osbz55wNg" provider="youtube" %}
