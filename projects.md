@@ -10,6 +10,21 @@ In January 2025 the team at Miami Community News noticed the work we were doing 
 I named the show Crossfire, after the segment of a Debate round where opponents ask questions to each other in an almost conversational manner. On the show, we interview young people doing unique things in the community, debate important issues for the youth of Miami, and more. A playlist of the episodes I have been in are 
   <a href="https://www.youtube.com/playlist?list=PLkhfS7-K2EcgSmPiqtIz96NoXRauTsr0p&" target="_blank" rel="noopener">linked</a>.
 
+### Beaver Works Summer Institute
+This summer I got the opportunity to join Beaver Works Summer Institute @ MIT (<a href="https://bwsi.mit.edu/" target="_blank" rel="noopener">linked</a>.) for a 4-week in-person intensive STEM program, hosted by MIT Lincoln Laboratory and MIT’s School of Engineering . I worked on Unmanned Aerial Systems - Synthetic Aperture Radar course. It was a great experience where we heard from STEM leaders and lab visits.  I learned a lot. Linked is some footage of our team project.
+{% include video id="N_osbz55wNg" provider="youtube" %}
+
+### Stanford DYEL: AGU BrightSTaRs Abstract
+Through the Stanford Design Your Energy Lifestyle Program (<a href="https://s3l.stanford.edu/education" target="_blank" rel="noopener">linked</a>.), I wrote an abstract for the AGU BrightSTaRs conference. My topic was Investigating Spatial Relationships Between Electrical Power Plants Emissions, County-Level Air Pollution, and Demographics in the United States. A QGIS map of my data is pictured below. 
+<figure>
+  <img src="https://vsharan07.github.io/assets/Screenshot%202025-08-05%20at%202.12.45%20AM.png" alt="Map plotting Power plant locations and air quality">
+  <figcaption>Map plotting Power plant locations and air quality</figcaption>
+</figure>
+
+### SIP
+To expand my robotics skills and learn about machine learning, I participated in a project last year in the Science Internship Program at UCSC. This project applied machine learning to visual servoing of a robotic arm. I learned kinematic techniques, control theory, and SIMULINK modeling and assisted the Hybrid Systems Lab at UCSC by designing the inverse kinematics system and setting up a robotic arm. A demo is linked below.
+{% include video id="dTGZi6jqOfQ" provider="youtube" %}
+
 ### QGIS
 I have been a fan of geography since elementary school. Last year, I wanted to create something for it to really dive deeper in one of my favorite interests. As a result, in my spare time I have worked with QGIS mapping software to model geographic topics I find interesting. Linked are some posts of my GIS work on Reddit.
 <p>
@@ -28,18 +43,3 @@ I have been a fan of geography since elementary school. Last year, I wanted to c
   <img src="https://vsharan07.github.io/assets/Screenshot%202025-08-05%20at%202.13.31%20AM.png" alt="Heatmap of New York City plotting bus stops">
   <figcaption>Heatmap of New York City plotting bus stops</figcaption>
 </figure>
-
-### SIP
-To expand my robotics skills and learn about machine learning, I participated in a project last year in the Science Internship Program at UCSC. This project applied machine learning to visual servoing of a robotic arm. I learned kinematic techniques, control theory, and SIMULINK modeling and assisted the Hybrid Systems Lab at UCSC by designing the inverse kinematics system and setting up a robotic arm. A demo is linked below.
-{% include video id="dTGZi6jqOfQ" provider="youtube" %}
-
-### Stanford DYEL: AGU BrightSTaRs Abstract
-Through the Stanford Design Your Energy Lifestyle Program, I wrote an abstract for the AGU BrightSTaRs conference. My topic was Investigating Spatial Relationships Between Electrical Power Plants Emissions, County-Level Air Pollution, and Demographics in the United States. A QGIS map of my data is pictured below. 
-<figure>
-  <img src="https://vsharan07.github.io/assets/Screenshot%202025-08-05%20at%202.12.45%20AM.png" alt="Map plotting Power plant locations and air quality">
-  <figcaption>Map plotting Power plant locations and air quality</figcaption>
-</figure>
-
-### Beaver Works Summer Institute
-This summer I got the opportunity to join the Beaver Works Summer Institute in the Unmanned Aerial Systems - Synthetic Aperture Radar course. It was a great experience and I learned a lot. Linked is some footage of our work.
-{% include video id="N_osbz55wNg" provider="youtube" %}
