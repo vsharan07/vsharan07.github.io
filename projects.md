@@ -11,7 +11,7 @@ I named the show Crossfire, after the segment of a Debate round where opponents 
   <a href="https://www.youtube.com/playlist?list=PLkhfS7-K2EcgSmPiqtIz96NoXRauTsr0p&" target="_blank" rel="noopener">linked</a>.
 
 ### Beaver Works Summer Institute
-This summer I got the opportunity to join Beaver Works Summer Institute @ MIT (<a href="https://bwsi.mit.edu/" target="_blank" rel="noopener">linked</a>.) for a 4-week in-person intensive STEM program, hosted by MIT Lincoln Laboratory and MIT’s School of Engineering . I worked on Unmanned Aerial Systems - Synthetic Aperture Radar course. It was a great experience where we heard from STEM leaders and lab visits.  I learned a lot. Linked is some footage of our team project.
+This summer I got the opportunity to join Beaver Works Summer Institute @ MIT (<a href="https://bwsi.mit.edu/" target="_blank" rel="noopener">link</a>.) for a 4-week in-person intensive STEM program, hosted by MIT Lincoln Laboratory and MIT’s School of Engineering. I participated in the Unmanned Aerial Systems - Synthetic Aperture Radar course. It was a greatlearning experience where we heard from STEM leaders and lab visits. Below is some footage of our team project.
 {% include video id="N_osbz55wNg" provider="youtube" %}
 
 ### Stanford DYEL: AGU BrightSTaRs Abstract
@@ -22,7 +22,7 @@ Through the Stanford Design Your Energy Lifestyle Program (<a href="https://s3l.
 </figure>
 
 ### SIP
-To expand my robotics skills and learn about machine learning, I participated in a project last year in the Science Internship Program at UC Santa Cruz. This project applied machine learning to visual servoing of a robotic arm. I learned kinematic techniques, control theory, and SIMULINK modeling and assisted the Hybrid Systems Lab at UCSC by designing the inverse kinematics system and setting up a robotic arm. A demo is linked below.
+To expand my robotics skills and learn about machine learning, I participated in a project last year in the Science Internship Program at UC Santa Cruz. This project applied machine learning to visual servoing of a robotic arm. I learned kinematic techniques, control theory, and SIMULINK modeling and assisted the Hybrid Systems Lab at UCSC by designing the inverse kinematics system and setting up a robotic arm. A demo is visible below.
 {% include video id="dTGZi6jqOfQ" provider="youtube" %}
 
 ### QGIS
